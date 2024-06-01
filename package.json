@@ -1,12 +1,15 @@
 {
   "name": "allura-geek",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "json-server --watch ./database/db.json --port 3000"
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
 }
