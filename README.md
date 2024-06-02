@@ -1,3 +1,5 @@
+# Curso-de-Practicando-Front-End-Challenge-AluraGeek
+
 Este proyecto surge como resultado del Callenge "Alura Geek".
 Trabaja con un servidor local simulado mediante archivos json.
 Despliega un layaout que divide la página en 2 secciones principales simulando una especie de tienda.
