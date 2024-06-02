@@ -7,3 +7,4 @@ Se creo apartir de un prototipo simulado en Figma se creó el archivo HTML desde
 Los estilos se linkean desde un archivo principal contenidos todos en su debida carpeta de estilos.
 Se comparten los archivos que implementan el servidor mediante archivos json.
 Mediante javascript se manipula tanto el DOM para renderizar productos mediante el ingreso de valores y se accede al servidor local para eliminar y/o crear elementos.
+Se añadieron modificaciones para intentar deplegar el producto usando Heroku.
